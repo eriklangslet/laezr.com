@@ -6,8 +6,8 @@ export const Navigation = (props) => {
           <button
             type='button'
             className='navbar-toggle collapsed'
-            data-toggle='collapse'
-            data-target='#bs-example-navbar-collapse-1'
+            data-bs-toggle='collapse'
+            data-bs-target='#bs-example-navbar-collapse-1'
           >
             {' '}
             <span className='sr-only'>Toggle navigation</span>{' '}
@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-          <img src='img/logo.jpg' className='img-responsive' alt='' />{' '}
+            <img src='img/logo.jpg' className='img-responsive' alt='' />{' '}
           </a>{' '}
         </div>
 
@@ -25,35 +25,34 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
-            <li>
-              <a href='#features' className='page-scroll'>
+            <li className='nav-item nav-link'>
+              <a href='#features' className='nav-link'>
                 Features
               </a>
             </li>
-            <li>
-              <a href='#about' className='page-scroll'>
+            <li className='nav-item'>
+              <a href='#about' className='nav-link'>
                 About
               </a>
             </li>
-            <li>
-              <a href='#services' className='page-scroll'>
+            <li className='nav-item'>
+              <a href='#services' className='nav-link'>
                 Services
               </a>
             </li>
-            <li>
-              <a href='#portfolio' className='page-scroll'>
+            <li className='nav-item'>
+              <a href='#portfolio' className='nav-link'>
                 Gallery
               </a>
             </li>
-            <li>
-              <a href='#testimonials' className='page-scroll'>
+            <li className='nav-item'>
+              <a href='#testimonials' className='nav-link'>
                 Testimonials
               </a>
             </li>
-            
           </ul>
         </div>
       </div>
     </nav>
-  )
-}
+  );
+};
