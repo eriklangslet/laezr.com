@@ -6,81 +6,127 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "At Laezr Consulting, we have our clients at heart and have made their satisfaction our utmost concern. It is imperative that online businesses have a secure, scalable environment in which to do business. This can be costly, and high costs can be a barrier to businesses that could benefit from our services. We want to help businesses grow with the changing landscape of technology. We plan to do this by utilizing time saving tools and frameworks to save time and money.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Push-Button Applications",
+            "Reasonable Prices",
+            "Secure Environments",
+            "Robust Scalability"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Save Time",
+            "Save Money",
+            "Best Practices",
+            "Expand"
         ]
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    "Services": [
+        {
+            "icon": "fa fa-code",
+            "name": "Web Application Development",
+            "text": ""
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-laptop",
+            "name": "Web Application Maintenance",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-server",
+            "name": "Server Setup",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-server",
+            "name": "Server Maintenance",
+            "text": ""
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Network Setup",
+            "text": ""
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-cloud-download",
+            "name": "Network Maintenance",
+            "text": ""
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-desktop",
+            "name": "Application Monitoring",
+            "text": ""
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-server",
+            "name": "Infrastructure Monitoring",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-medkit",
+            "name": "Disaster Recovery",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-database",
+            "name": "Data Backup",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-shield",
+            "name": "Network Security",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-question-circle",
+            "name": "Technical Support",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-lock",
+            "name": "Security Audits",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-stop",
+            "name": "Penetration Testing",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-fighter-jet",
+            "name": "Application Optimization",
+            "text": ""
         }
 
 
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"\"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"\"",
             "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"\"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"\"",
             "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"\"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"\"",
             "name": "Johnathan Doe"
         }
     ],
