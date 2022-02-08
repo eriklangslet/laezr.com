@@ -64,7 +64,7 @@
         {
             "icon": "fa fa-lock",
             "name": "Security Audits",
-            "text": "Includes review of infrastructure security rules and adherence to best practices."
+            "text": "Includes review of infrastructure security rules and adherence to best practices. Findings are consolidated into an organized, prioritized report."
         },
         {
             "icon": "fa fa-stop",

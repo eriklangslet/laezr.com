@@ -5,7 +5,7 @@ export const Footer = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Laezr, LLC
+          Sharp, Focused, Brilliant - &copy; 2022 Laezr, LLC
           </p>
         </div>
       </div>
