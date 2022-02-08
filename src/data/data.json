@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "",
+        "paragraph": ""
 
     },
     "About": {
@@ -24,80 +24,53 @@
         {
             "icon": "fa fa-code",
             "name": "Web Application Development",
-            "text": ""
+            "text": "Includes custom greenfield development, as well as developing new features in an existing codebase. It can range from a multi-featured website down to a single service."
         },
         {
             "icon": "fa fa-laptop",
             "name": "Web Application Maintenance",
-            "text": ""
+            "text": "Includes upgrading frameworks, optimizing legacy codebases, and adding monitoring."
         },
         {
             "icon": "fa fa-server",
-            "name": "Server Setup",
-            "text": ""
-        },
-        {
-            "icon": "fa fa-server",
-            "name": "Server Maintenance",
-            "text": ""
+            "name": "Server Deployment",
+            "text": "Includes managing and all the necessary infrastructure that is needed to deploy a server. For web based application, autoscaling groups will be deployed to meet demands when necessary and then scale down to save costs."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Network Setup",
-            "text": ""
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Network Maintenance",
-            "text": ""
+            "name": "Network Security & Design",
+            "text": "Includes the full design of networks on public clouds that utilize industry standard security practices."
         },
         {
             "icon": "fa fa-desktop",
-            "name": "Application Monitoring",
-            "text": ""
-        },
-        {
-            "icon": "fa fa-server",
-            "name": "Infrastructure Monitoring",
-            "text": ""
+            "name": "System & Application Monitoring",
+            "text": "Includes using products such as New Relic to aggregate logs to identify errors and performance issues immediately."
         },
         {
             "icon": "fa fa-medkit",
-            "name": "Disaster Recovery",
-            "text": ""
+            "name": "Disaster Recovery & Backup",
+            "text": "Includes backing up databases and settings so in a worst case scenario, we can bring business functionality back online with minimal downtime."
         },
         {
-            "icon": "fa fa-database",
-            "name": "Data Backup",
-            "text": ""
-        },
-        {
-            "icon": "fa fa-shield",
-            "name": "Network Security",
-            "text": ""
+            "icon": "fa fa-code",
+            "name": "Infrastructure as Code (IaC)",
+            "text": "Includes scripts for repeatable, secure, push-button environments. This is useful for instantly standing up development, staging, and production environments with identical specs."
         },
         {
             "icon": "fa fa-question-circle",
-            "name": "Technical Support",
-            "text": ""
+            "name": "Technical Consulting",
+            "text": "Includes advising clients on best practices, auditing infrastructure, and advocating for clients when interacting with third party service providers."
         },
         {
             "icon": "fa fa-lock",
             "name": "Security Audits",
-            "text": ""
+            "text": "Includes review of infrastructure security rules and adherence to best practices."
         },
         {
             "icon": "fa fa-stop",
             "name": "Penetration Testing",
-            "text": ""
-        },
-        {
-            "icon": "fa fa-fighter-jet",
-            "name": "Application Optimization",
-            "text": ""
+            "text": "Includes using industry standard suites to test for vulnerabilities and patches that need to be applied. Results are returned in a prioritized report."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
