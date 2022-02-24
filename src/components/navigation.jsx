@@ -40,6 +40,11 @@ export const Navigation = (props) => {
                 Services
               </a>
             </li>
+            <li className='nav-item'>
+              <a href='#contact' className='nav-link'>
+                Contact
+              </a>
+            </li>
             {/* <li className='nav-item'>
               <a href='#portfolio' className='nav-link'>
                 Gallery
